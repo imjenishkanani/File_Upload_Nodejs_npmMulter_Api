@@ -1,0 +1,17 @@
+{
+  "name": "fileupload_app",
+  "version": "1.0.0",
+  "description": "upload form-data multer module app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.15"
+  }
+}
